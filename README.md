@@ -87,7 +87,7 @@ Follow these steps to run the project locally on your machine:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/item-manager.git
+git clone https://github.com/lakshaypunia/Item_manager.git
 cd item-manager
 
 # 2. Install dependencies
